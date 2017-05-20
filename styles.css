@@ -1,9 +1,11 @@
 img {
     width: 200px;
+    background-color: yellow;
 }
 
 body {
     text-align: center;
     font-family: "Arial";
     color: blue;
+    background-color: orange;
 }
